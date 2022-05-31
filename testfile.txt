@@ -1,3 +1,8 @@
 riadok1
+<<<<<<< HEAD
 riadok5
 riadok3
+=======
+riadok7
+riadok3
+>>>>>>> 13829722df3a04b7a1a74e55cfcce087954662aa
