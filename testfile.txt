@@ -1,5 +1,9 @@
 riadok1
 riadok5
+<<<<<<< HEAD
 riadok888
+=======
+riadok4
+>>>>>>> test
 riadok9
 riadok668
